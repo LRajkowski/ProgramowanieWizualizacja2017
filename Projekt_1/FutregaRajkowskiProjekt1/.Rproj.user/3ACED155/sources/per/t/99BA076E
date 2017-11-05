@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509581783579.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "261011772",
+    "id" : "99BA076E",
+    "lastKnownWriteTime" : 1509613284,
+    "last_content_update" : 1509613284521,
+    "path" : "~/Dropbox/RiWizualizacja/varia.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "marks" : "<:6,0\n>:6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

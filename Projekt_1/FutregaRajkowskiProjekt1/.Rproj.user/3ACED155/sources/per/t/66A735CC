@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509709014428.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2045175076",
+    "id" : "66A735CC",
+    "lastKnownWriteTime" : 1509711561,
+    "last_content_update" : 1509711561799,
+    "path" : "~/Dropbox/RiWizualizacja/proton_LRajkowski.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "43,4",
+        "last_setup_crc32" : "D87A37B7bb338d19",
+        "marks" : "<:41,14\n>:41,15",
+        "scrollLine" : "26",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

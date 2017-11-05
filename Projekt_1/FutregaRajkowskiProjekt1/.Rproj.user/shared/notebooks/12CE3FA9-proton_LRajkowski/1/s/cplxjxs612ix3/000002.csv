@@ -1,0 +1,18 @@
+"0","proton(action=""login"", login=""slap"", password=haslopietraszka)
+"
+"1","Congratulations!
+
+You have cracked Pietraszko's password!
+Secret plans of his lab are now in your hands.
+What is in this mysterious lab?
+You may read about it in the `Pietraszko's cave` story which is available at http://biecek.pl/BetaBit/Warsaw
+
+Next adventure of Beta and Bit will be available soon.
+
+"
+"1","            proton.login.pass "
+"1","
+"
+"1","""Success! User is logged in!"" "
+"1","
+"

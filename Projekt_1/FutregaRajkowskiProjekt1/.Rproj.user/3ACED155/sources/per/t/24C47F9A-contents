@@ -1,0 +1,12 @@
+setRemoteRepo(
+    user = "LRajkowski",
+    repo = "project1_data"
+)
+
+names(asearch("name:cars"))
+aread('LRajkowski/pisa_arepo/d4f5b8b3e9c3f1a7a0805d809be82cdb')
+aread('pbiecek/Eseje/arepo/04f7a71dc8abb9f318cf1f57510c1045')
+aread('d4f5b8b3e9c3f1a7a0805d809be82cdb')
+aread("www.dropbox.com/s/lfmge9iif4rnqmw/9f946617de98820f9aca803f44c11ecb.rda?dl=1")
+
+aread("www.dropbox.com/s/7s7winuwxqfbrp7/0f13db346e0c42210923eff13ec2979a.txt?dl=1")

@@ -1,0 +1,8 @@
+slowo <- "nictam"
+
+ciag <- strsplit(slowo, split="")
+mykey <- "tomojklucz"
+
+encrypt(slowo, mykey)
+itsasecret <- "nermal24"
+save(itsasecret, file="~/Dropbox/RiWizualizacja/orly.RData")

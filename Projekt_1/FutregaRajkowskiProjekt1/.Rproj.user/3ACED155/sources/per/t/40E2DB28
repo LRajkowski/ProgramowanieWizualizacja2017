@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509646210145.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3387447570",
+    "id" : "40E2DB28",
+    "lastKnownWriteTime" : 1509712787,
+    "last_content_update" : 1509712787107,
+    "path" : "~/Dropbox/RiWizualizacja/project1/TeXreport1.Rnw",
+    "project_path" : "TeXreport1.Rnw",
+    "properties" : {
+        "cursorPosition" : "136,16",
+        "marks" : "<:141,48\n>:141,48",
+        "scrollLine" : "108"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sweave"
+}
